@@ -20,7 +20,7 @@ A simple contact book application built using Python and Tkinter. This applicati
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/contact-book.git
+    git clone https://github.com/yourusername/Contact-Book.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -31,7 +31,7 @@ A simple contact book application built using Python and Tkinter. This applicati
 
 1. **Run the Application**:
     ```bash
-    python contact_book.py
+    python main.py
     ```
 
 2. **Add a Contact**:
